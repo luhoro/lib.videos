@@ -1,0 +1,88 @@
+{
+  "videos": [
+    {
+      "id": 0,
+      "titulo": "Comece pelo básico. Fora da norma podcast",
+      "descricao": "93 mil visualizações",
+      "url": "https://www.youtube.com/embed/C3tiSE1QJQ4",
+      "imagem": "https://yt3.ggpht.com/B55MkOmWYA2TRrYrtOdPuEeZEfMdxIQRYDSoCieUI1-WxQMo8c8WwNXaEIPftvHHC1mf480WpA=s68-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": 1,
+      "titulo": "Curso Javascript Completo 2020 [Iniciantes] + 14 Mini-Projetos",
+      "descricao": "901 mil visualizações",
+      "url": "https://www.youtube.com/embed/i6Oi-YtXnAU",
+      "imagem": "https://yt3.ggpht.com/VKuVrrgTqg39qayXEgez_e4YSj15EzKI5gKQkghem7EOMGgcNtjp47CL9HMMEYESvS7qtfnyBhM=s48-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": 2,
+      "titulo": "💵 SALÁRIOS PARA PROGRAMADORES EM 2023",
+      "descricao": "1,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/5YtgOlZnjo0",
+      "imagem": "https://yt3.ggpht.com/ytc/AGIKgqNYnWV_wrW9eSH1bz2akU2yUHBPXV9NE383_YAsvA=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": 3,
+      "titulo": "Rant: Aprendizado na Beira do Caos | Rated R",
+      "descricao": "172 mil visualizações",
+      "url": "https://www.youtube.com/embed/am-FQ86mKV0",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 4,
+      "titulo": "18 Portfólios e Sites Insanos (E Porque Você NÃO Deveria Copiá-Los)",
+      "descricao": "464 mil visualizações",
+      "url": "https://www.youtube.com/embed/o6As-dAX70w",
+      "imagem": "https://yt3.ggpht.com/ytc/AGIKgqOjnzCbs5kiIwXIZTHqrd5i72pFsYOLqCHopfcX=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": 5,
+      "titulo": "O que eu faria se estivesse COMEÇANDO hoje na PROGRAMAÇÃO?",
+      "descricao": " mil visualizações",
+      "url": "https://www.youtube.com/embed/mtZ_tUPJI0w",
+      "imagem": "https://yt3.ggpht.com/YtEFxzWdIN8cMOFSNXacDlVZFzE8k_K6Xn_bOc_ehh2q49YGQ-QmwS-fAg_rJeM7GnTldac7=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": 6,
+      "titulo": "Como iniciar em Desenvolvimento Web? O que estudar?",
+      "descricao": "124 mil visualizações",
+      "url": "https://www.youtube.com/embed/01bCZPpSQxY",
+      "imagem": "https://yt3.ggpht.com/84ALFuw4UCyfL1TyoMU77D-I6xngPjn2X0kbx2bMAyoFzWwR-utcrbDn_MuNJcroPcmU9NdGGQ=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": 7,
+      "titulo": "Um dos conceitos mais importantes na Programação!",
+      "descricao": "212 mil visualizações",
+      "url": "https://www.youtube.com/embed/P5kfA6ncOs8",
+      "imagem": "https://yt3.ggpht.com/ytc/AGIKgqOjnzCbs5kiIwXIZTHqrd5i72pFsYOLqCHopfcX=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": 8,
+      "titulo": " Criei uma interface estilo UBER com HTML e CSS #boraCodar 19 ",
+      "descricao": "6,3 mil visualizações",
+      "url": "https://www.youtube.com/embed/Ac0s7KEezPM",
+      "imagem": "https://yt3.ggpht.com/ytc/AGIKgqMyeURlC9A1NyCFMkUGNlZdJD65UrY-PT6drmTYVA=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": 9,
+      "titulo": "React JS Curso Rápido ⚛️ Masterclass #1 2020 - 100% Prático!",
+      "descricao": "186 mil visualizações",
+      "url": "https://www.youtube.com/embed/XQxitgyZ_S4",
+      "imagem": "https://yt3.ggpht.com/ytc/AGIKgqNnRq5qooIYxtrPP-jdkrkdYzxJPfeNHxQ2S-9j=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": 10,
+      "titulo": "DESENVOLVENDO BOT DE DISCORD COM JAVASCRIPT E COLOCANDO NO AR!",
+      "descricao": "62 mil visualizações",
+      "url": "https://www.youtube.com/embed/zKOf1NGGStE",
+      "imagem": "https://yt3.ggpht.com/84ALFuw4UCyfL1TyoMU77D-I6xngPjn2X0kbx2bMAyoFzWwR-utcrbDn_MuNJcroPcmU9NdGGQ=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": 11,
+      "titulo": "Conversando sobre TDAH, Autismo, Ansiedade e Depressão | Tirando a Camisa de Força",
+      "descricao": "153 mil visualizações",
+      "url": "https://www.youtube.com/embed/yjhn2fjByNU",
+      "imagem": "https://yt3.ggpht.com/ytc/AGIKgqMVCRft2AVnnPze4UnRSdxE6Kj4V8_Q_q3myRgsYOI=s88-c-k-c0x00ffffff-no-rj"
+    }
+  ]
+}
